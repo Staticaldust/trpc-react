@@ -8,3 +8,4 @@ npx sequelize-cli migration:generate --name users
 
 npx sequelize-cli db:migrate
 
+npm run dev
